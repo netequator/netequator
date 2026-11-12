@@ -49,7 +49,7 @@
     <text x="656" y="126" fill="#e6edf3">Npcap / AF_PACKET</text>
 
     <text x="590" y="148" fill="#6e7681">HOST</text>
-    <text x="656" y="148" fill="#e6edf3">Linux (WSL2) / Win</text>
+    <text x="656" y="148" fill="#e6edf3">Debian Linux / Win</text>
 
     <text x="590" y="170" fill="#6e7681">METHOD</text>
     <text x="656" y="170" fill="#3fb950">RFC-first / PoC</text>

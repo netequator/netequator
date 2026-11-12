@@ -33,7 +33,7 @@ Most of my work starts as a single-file proof of concept verifying wire behavior
 
 - **Languages:** `Python 3`, `Go`, `C`
 - **Packet & Network Tooling:** `Npcap`, `AF_PACKET`, `Scapy`, `tshark` / `dumpcap`, `Nmap`, `WireGuard`
-- **Platforms:** `Linux` (`Ubuntu` / `WSL2` network namespaces), `Windows 10` (`Winsock` / `Npcap`)
+- **Platforms:** `Debian Linux` (`netns` / `AF_PACKET`), `Windows` (`Winsock` / `Npcap`)
 
 ---
 
