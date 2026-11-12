@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 210" width="840" height="210" role="img" aria-label="Tmasser (@netequator) - Network Security and Systems Engineer">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#161b22" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card-body">
+      <rect x="2" y="39" width="836" height="169" rx="7"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="208" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="2" y="39" width="836" height="169" fill="url(#grid)" opacity="0.7" clip-path="url(#card-body)"/>
+
+  <line x1="1" y1="39" x2="839" y2="39" stroke="#21262d" stroke-width="1"/>
+
+  <circle cx="24" cy="20" r="4.5" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <circle cx="40" cy="20" r="4.5" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <circle cx="56" cy="20" r="4.5" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="814" y="24" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" fill="#6e7681">~/netequator</text>
+
+  <text x="34" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#3fb950">$</tspan>
+    <tspan dx="6" fill="#8b949e">id -un</tspan>
+  </text>
+
+  <text x="34" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <tspan font-size="31" font-weight="600" fill="#f0f6fc">Tmasser</tspan>
+    <tspan dx="10" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="#58a6ff">// @netequator</tspan>
+  </text>
+
+  <text x="34" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#c9d1d9">
+    Network Security &amp; Systems Engineer
+  </text>
+
+  <text x="34" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">
+    packet analysis / raw sockets / protocols / automation
+  </text>
+
+  <rect x="572" y="56" width="236" height="132" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+    <text x="590" y="82" fill="#6e7681">FOCUS</text>
+    <text x="656" y="82" fill="#e6edf3">L2/L3 &amp; Protocols</text>
+
+    <text x="590" y="104" fill="#6e7681">LANG</text>
+    <text x="656" y="104" fill="#e6edf3">Python / Go / C</text>
+
+    <text x="590" y="126" fill="#6e7681">CAPTURE</text>
+    <text x="656" y="126" fill="#e6edf3">Npcap / AF_PACKET</text>
+
+    <text x="590" y="148" fill="#6e7681">HOST</text>
+    <text x="656" y="148" fill="#e6edf3">Linux (WSL2) / Win</text>
+
+    <text x="590" y="170" fill="#6e7681">METHOD</text>
+    <text x="656" y="170" fill="#3fb950">RFC-first / PoC</text>
+  </g>
+</svg>
